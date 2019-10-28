@@ -2,7 +2,9 @@
 
 - 目前支持打开的文件类型：HTML、CSS、txt、markdown、jpg/jpeg/gif/png/svg图片，mp3/音频，mp4/avi视频文件直接在浏览器中打开，其它文件均默认进行下载。
 
-- 请求的文件放在project目录下的webroot目录中，目录中已有实例文件供测试使用
+- 请求的文件放在webroot目录中
+
+- 测试前请先运行主函数
 
 - 测试方式1：
 
